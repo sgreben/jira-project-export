@@ -1,6 +1,6 @@
 # jira-project-export
 
-A little shell script to extract issues and metadata for a JIRA project as JSON.
+A little shell script to extract issues and metadata for a JIRA project as JSON. If you just want to copy&paste the API call, look [here](https://github.com/sgreben/jira-project-export/blob/master/export.sh#L112) (everything else is parsing CLI args)
 
 ## Prerequisites
 
